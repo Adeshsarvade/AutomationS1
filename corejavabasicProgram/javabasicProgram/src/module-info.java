@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ADESH
+ *
+ */
+module javabasicProgram {
+}
